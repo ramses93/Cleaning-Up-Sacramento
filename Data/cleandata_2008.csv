@@ -1,4 +1,4 @@
-zip,price,price per sqft,sq_ft,city
+zip,Mean Price,Mean Price/sqft,Mean sqft,Total Sales
 95603,321818.0,230.0,1498.0,3
 95608,295685.0,188.0,1553.0,20
 95610,226436.0,148.0,1578.0,7
